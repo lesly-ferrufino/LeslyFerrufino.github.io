@@ -405,7 +405,7 @@ const projects = [
     },
     {
         category: "tecnologico",
-        title: "Hangzone",
+        title: "Hangzone ",
         subtitle: "App de Navegación e Información Comercial",
         event: "Hackatón",
         img1: "assets/proyecto1.jpeg",
