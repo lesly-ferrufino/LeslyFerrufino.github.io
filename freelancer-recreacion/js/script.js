@@ -298,8 +298,8 @@ const volunteers = [
     },
     {
         img: "assets/integracion1.jpeg",
-        title: "Mantenimiento Ambiental y del centro educativo-2026",
-        subtitle: "Integración",
+        title: "Mantenimiento Ambiental y del centro educativo",
+        subtitle: "Integración-2026",
         text: "Como parte del proyecto de Integración del Gobierno de El Salvador, realicé 21 horas de servicio comunitario enfocadas en el mantenimiento y limpieza del interior y los alrededores del Complejo Educativo Ofelia Herrera. Esta experiencia me permitió contribuir al cuidado de mi institución y generar un ambiente más limpio, ordenado y adecuado para el bienestar de la comunidad educativa."
     },
     {
