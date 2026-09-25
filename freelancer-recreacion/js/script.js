@@ -409,7 +409,7 @@ const projects = [
         subtitle: "App de Navegación e Información Comercial",
         event: "Hackatón",
         img1: "assets/proyecto1.jpeg",
-        img2: "assets/1.png",
+        img2: "assets/proyecto2.jpeg",
         description: "Es una aplicación interactiva diseñada para facilitar a las personas la ubicación dentro del centro comercial Garden Mall, San Miguel, ya que posee todos los establecimientos del centro comercial como también información de ellos. Esto permite a los visitantes explorar las tiendas disponibles, descubrir puntos de interés y calcular rutas para saber exactamente dónde se encuentran y cómo llegar a su destino.",
         role: "Investigadora de información y diseñadora. Me encargué de investigar y verificar datos sobre los establecimientos del centro comercial y sus ubicaciones, y de ayudar a crear la interfaz visual de la app para que la experiencia del usuario fuera intuitiva."
     },
