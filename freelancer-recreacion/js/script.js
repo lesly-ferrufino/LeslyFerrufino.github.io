@@ -406,8 +406,8 @@ const projects = [
     {
         category: "tecnologico",
         title: "Hangzone ",
-        subtitle: "App de Navegación e Información Comercial",
-        event: "Hackatón",
+        subtitle: "App de Navegación e Información",
+        event: "Hackatón 2024",
         img1: "assets/proyecto1.jpeg",
         img2: "assets/proyecto2.jpeg",
         description: "Es una aplicación interactiva diseñada para facilitar a las personas la ubicación dentro del centro comercial Garden Mall, San Miguel, ya que posee todos los establecimientos del centro comercial como también información de ellos. Esto permite a los visitantes explorar las tiendas disponibles, descubrir puntos de interés y calcular rutas para saber exactamente dónde se encuentran y cómo llegar a su destino.",
