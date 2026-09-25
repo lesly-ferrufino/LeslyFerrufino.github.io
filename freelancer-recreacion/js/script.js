@@ -287,18 +287,18 @@ const volunteers = [
     {
         img: "assets/voluntariado1.jpeg",
         title: "Asistencia Docente y Apoyo Académico",
-        subtitle: "Complejo Educativo Ofelia Herrera ",
+        subtitle: "Complejo Educativo Ofelia Herrera- 2025-2026 ",
         text: "Realicé 150 horas de servicio social en el Complejo Educativo Ofelia Herrera, apoyando a la encargada de bachillerato y al director de la institución, ayudando con la supervisión de estudiantes, revisión de cuadernos y exámenes, y registro de notas. Esta experiencia fortaleció mi organización, atención al detalle y gestión del tiempo, además de valores como la paciencia, el respeto y la responsabilidad."
     },
     {
         img: "assets/voluntariado2.jpeg",
         title: "Iniciativa Comunitaria en Parque de Santa Emilia",
-        subtitle: "Complejo Educativo Ofelia Herrera ",
+        subtitle: "Complejo Educativo Ofelia Herrera-2024 ",
         text: "En noveno grado participé con mis compañeros en una campaña de limpieza en el parque de Santa Emilia. Esta experiencia fortaleció mis habilidades de planificación, coordinación y trabajo en equipo, además de fomentar la iniciativa y responsabilidad social. El proyecto contribuyó a convertir el parque en un espacio más limpio, seguro y agradable para la comunidad."
     },
     {
         img: "assets/integracion1.jpeg",
-        title: "Mantenimiento Ambiental y del centro educativo",
+        title: "Mantenimiento Ambiental y del centro educativo-2026",
         subtitle: "Integración",
         text: "Como parte del proyecto de Integración del Gobierno de El Salvador, realicé 21 horas de servicio comunitario enfocadas en el mantenimiento y limpieza del interior y los alrededores del Complejo Educativo Ofelia Herrera. Esta experiencia me permitió contribuir al cuidado de mi institución y generar un ambiente más limpio, ordenado y adecuado para el bienestar de la comunidad educativa."
     },
