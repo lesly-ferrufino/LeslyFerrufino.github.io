@@ -121,7 +121,6 @@ const achievements = [
    
     { img: "assets/noveno.jpeg",  title: "Diploma de primer lugar por haber obtenido los puntajes más altos en noveno",  text: "En el Complejo Educativo Ofelia Herrera" },
     { img: "assets/primer.jpeg",  title: "Diploma de primer lugar por haber obtenido los puntajes más altos en primer año de bachillerato",  text: "En el Complejo Educativo Ofelia Herrera" },
-    { img: "assets/cuerso.jpeg",  title: "Diploma de lectoescritura y matemáticas",  text: "Impartido por el Instituto de la Juventud INJUVE." },
     { img: "assets/valores.jpeg",  title: "Diploma de reconocimiento como estrella ¡Supérate! GRUPO Q 2024",  text: "Por destacado desempeño y acciones académicas en la materia de valores." },
     { img: "assets/medalla1.jpeg",  title: "Medalla de bronce en la competencia de tecnología del programa empresarial ¡Supérate! Expo Tech", text:"Por proyecto EmerTech"},
     { img: "assets/html.jpeg", title: "Certificado digital en el curso  de HTML", text: "De SoloLearn" },
@@ -129,8 +128,10 @@ const achievements = [
     { img: "assets/java.jpeg", title: "Certificado digital en el curso  de JavaScript", text: "De SoloLearn" },
     { img: "assets/excel1.jpeg", title: "Certificación Excel experto", text: "En Certiport" },
     { img: "assets/excel2.jpeg", title: "Certificación Excel asociado", text: "En Certiport" },
+    { img: "assets/liderazgo.jpeg", title: "Certificación de Liderazgo", text: "En Santander|Open Academy" },
     { img: "assets/geminis.jpeg", title: "Certificación de Domina la AI con Geminis", text: "En Santander|Open Academy" },
     { img: "assets/redes.jpeg", title: "Certificado en Conceptos básicos de redes", text: "Por Networking Academy" },
+    { img: "assets/cuerso.jpeg",  title: "Diploma de lectoescritura y matemáticas",  text: "Impartido por el Instituto de la Juventud INJUVE." },
     { img: "assets/kinderdiploma.jpeg",  title: "Diploma de primer lugar por excelencia académica en Kinder",  text: "En el Complejo Educativo Ofelia Herrera" },
     { img: "assets/preparatoria.jpeg",  title: "Diploma de segundo lugar en preparatoria",  text: "En el Complejo Educativo Ofelia Herrera" },
     { img: "assets/medalla2.jpeg",  title: "Medalla de honor al mérito en preparatoria",  text: "En el Complejo Educativo Ofelia Herrera" },
