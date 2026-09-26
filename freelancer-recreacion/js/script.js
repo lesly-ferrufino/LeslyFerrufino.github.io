@@ -129,6 +129,7 @@ const achievements = [
     { img: "assets/java.jpeg", title: "Certificado digital en el curso  de JavaScript", text: "De SoloLearn" },
     { img: "assets/excel1.jpeg", title: "Certificación Excel experto", text: "En Certiport" },
     { img: "assets/excel2.jpeg", title: "Certificación Excel asociado", text: "En Certiport" },
+    { img: "assets/geminis.jpeg", title: "Certificación de Domina la AI con Geminis", text: "En Santander|Open Academy" },
     { img: "assets/redes.jpeg", title: "Certificado en Conceptos básicos de redes", text: "Por Networking Academy" },
     { img: "assets/kinderdiploma.jpeg",  title: "Diploma de primer lugar por excelencia académica en Kinder",  text: "En el Complejo Educativo Ofelia Herrera" },
     { img: "assets/preparatoria.jpeg",  title: "Diploma de segundo lugar en preparatoria",  text: "En el Complejo Educativo Ofelia Herrera" },
